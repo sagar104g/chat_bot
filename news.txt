@@ -1,0 +1,10 @@
+news
+business
+entertainment
+gaming
+general
+music
+politics
+science-and-nature
+sport
+technology
